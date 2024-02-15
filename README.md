@@ -1,16 +1,4 @@
-# flutter_application_3
+# Урок 15.02.24
+## Главный экран
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/vanbyte02/Lesson15.02.24/assets/144317893/ea8b4841-b55f-4a17-ad64-b25a97f8df8c)
